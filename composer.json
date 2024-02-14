@@ -1,0 +1,27 @@
+{
+    "name": "moisesf10/emissor-nfse-php",
+    "description": "Classe para emitir Nota Fiscal NFS-e via webservice",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Moisés Ferreira",
+            "email": "moisesferreira10@yahoo.com.br"
+        }
+    ],
+    "minimum-stability": "beta",
+    "require": {
+      "php": ">=5.6",
+      "nfephp-org/sped-common": "^5.0",
+      "katzgrau/klogger": "^1.2",
+      "ext-openssl": "*",
+      "ext-dom": "*",
+      "ext-libxml": "*",
+      "ext-simplexml": "*",
+      "ext-soap": "*",
+        "monolog/monolog": "^1.25.4",
+      "ext-json": "*"
+    },
+    "autoload": {
+        "psr-4": {"EmissorNfse\\": "src/"}
+    }
+}
