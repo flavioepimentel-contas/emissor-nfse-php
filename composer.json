@@ -1,11 +1,11 @@
 {
-    "name": "moisesf10/emissor-nfse-php",
+    "name": "flavioepimentel-contas/emissor-nfse-php",
     "description": "Classe para emitir Nota Fiscal NFS-e via webservice",
     "type": "library",
     "authors": [
         {
-            "name": "Moisés Ferreira",
-            "email": "moisesferreira10@yahoo.com.br"
+            "name": "Contas Contabilidade",
+            "email": "flavio.processo@contas.com.br"
         }
     ],
     "minimum-stability": "beta",
