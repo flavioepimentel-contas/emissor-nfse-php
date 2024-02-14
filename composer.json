@@ -8,7 +8,7 @@
             "email": "flavio.processo@contas.com.br"
         }
     ],
-    "minimum-stability": "beta",
+    "minimum-stability": "dev",
     "require": {
       "php": ">=5.6",
       "nfephp-org/sped-common": "^5.0",
